@@ -294,7 +294,8 @@ img{
   justify-self: center;
 }
 .about__img img{
-  width: 200px;
+  width: 40vw;
+  height: auto;
   border-radius: .5rem;
 }
 
