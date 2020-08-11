@@ -55,6 +55,7 @@ sr.reveal('.cardly',{interval: 200});
 
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200}); 
+sr.reveal('.contact__label',{interval: 200}); 
 
 
 
